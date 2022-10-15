@@ -1,0 +1,10 @@
+body {
+  background-image: url(pexels-felix-mittermeier-956981.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+.header h1 {
+  color: white;
+  font-size: 60px;
+}
